@@ -6,12 +6,12 @@
 
 <hr/>
 
-경력   
+# 경력   
   
-삼성전자 로봇 사업팀 수석 연구원 (2021.10 ~ 현재)    
+## 삼성전자 로봇 사업팀 수석 연구원 (2021.10 ~ 현재)    
 • Develop safety, security, and motor control platform.   
 
-삼성전자 무선 사업부 책임 연구원 (2011, 03 ~ 2021, 09)   
+## 삼성전자 무선 사업부 책임 연구원 (2011, 03 ~ 2021, 09)   
 • BUDS2 시스템 개발 및 분석툴 개발 (2021)   
 • 겔럭시 와치(타이젠 & wearOS) 커널 시스템 개발 (2020)    
 • 겔럭시 핏(freeRTOS) 시스템 및 분석 툴 개발(2029)      
@@ -23,19 +23,19 @@
 • 삼성 타이젠 사이드 싱크 테크니컬 리더   
 • 삼성 UMTS 모델 (RTOS -> linux system 변경)   
 
-삼성전자 무선 사업부 선임 연구원(2007, 02 ~ 2011, 02)      
+## 삼성전자 무선 사업부 선임 연구원(2007, 02 ~ 2011, 02)      
 • BSP 엔지니어 (신비안, 윈도우 모바일)      
 • 터치 다비이스 드라이버 개발        
 • USB 디바이스 드라이버 개발    
 • 바이너리 다운로더 개발      
    
-삼성전자 무선 사업부 연구원 (2005, 02 ~ 2006, 02)      
+## 삼성전자 무선 사업부 연구원 (2005, 02 ~ 2006, 02)      
 • UMTS 모델 BSP 개발   
 • 윈도우즈 다운로드 프로그램 개발       
 
 <hr/>   
 
-VOLUNTEER   
+# VOLUNTEER   
 • Mentor on SW maestro(swmaestro.or.kr) since 2020.   
 • Teaching drone to Fire fighter [201803~]   
 • Teaching drone to Gyeonggi Science High School [201803~]   
@@ -49,7 +49,7 @@ VOLUNTEER
 
 <hr/>    
 
-기사     
+# 기사     
 [미래세대 눈망울에 'IT 희망' 심는 삼성맨](https://news.mt.co.kr/mtview.php?no=2015052016225907055, "news link")      
 [[Hot!119]소방관 아이디어-개발자 능력이 낳은 한국형 ‘열화상 카메라’](https://www.fpn119.co.kr/92309, "news link")        
 [언제든지 화재, 실종자 수색 가능한 드론이 소방 활동에 도움 되길](https://www.fpn119.co.kr/149484, "news link")       
@@ -57,7 +57,7 @@ VOLUNTEER
 
 <hr/>
 
-유튜브     
+# 유튜브     
 [뇌파센서와 아두이노를 이용한 드론 조종 2013](http://sulac.egloos.com/5748416, "youtube link")   
 [DIY 드론 프로젝트 첫 비행](http://sulac.egloos.com/m/5876663, "youtube link")    
 [우즈백 타슈켄트 대학에서의 비행](https://www.youtube.com/watch?v=QEQXxTo1OkQ, "youtube link")   

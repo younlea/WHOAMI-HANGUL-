@@ -65,8 +65,17 @@ news
 <hr/>
 
 youtube     
-[찾아가는 뉴스룸 열화상 카메라 개발을 위한 소방학교 훈련 편](https://www.youtube.com/watch?v=gpwkQD-H8kM, "youtube link")        
-[소방관의 눈이 되어 드립니다 열화상 카메라 제작 보급기](https://www.youtube.com/watch?v=PiM4MGmw2zo, "youtube link")      
+[fly control using neurosky on 2013](http://sulac.egloos.com/5748416, "youtube link")   
+[First Flying on my arduino multiwii drone](http://sulac.egloos.com/m/5876663, "youtube link")
+[drone on the TUIT sky.](https://www.youtube.com/watch?v=QEQXxTo1OkQ,"youtube link")   
+[찾아가는 뉴스룸 열화상 카메라 개발을 위한 소방학교 훈련 편](https://www.youtube.com/watch?v=gpwkQD-H8kM, "youtube link")
+[줌인삼성 열화상 카메라](https://www.youtube.com/watch?v=rXdblUqNZUY, "youtube link)   
+[소방관의 눈이 되어 드립니다 열화상 카메라 제작 보급기](https://www.youtube.com/watch?v=PiM4MGmw2zo, "youtube link")
+[CNN thermal camera](https://www.youtube.com/watch?v=gtjNa2lh5fY, "youtube link")
+
+
+
+
 
 
 

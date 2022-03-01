@@ -1,4 +1,9 @@
 # 자기소개
+개발을 좋아하는 개발자로 살아가고 싶은 개발자입니다.    
+자신이 가진 기술을 가지고 누군가에게 도움을 줄수 있는걸 깨닫고 실천하려고 하는 개발자입니다.   
+과거의 나에게 해줄 말들을 멘티들에게 말해주는걸 좋아하는 멘토 개발자입니다.    
+
+<hr/>   
 + blog : http://sulac.egloos.com/     
 + book : 시작하는 드로너를 위한 아두이노 드론 마스터 북 (http://www.yes24.com/Product/Goods/31867892)   
 + linkedin : https://www.linkedin.com/in/younlea-kim-30701919/   

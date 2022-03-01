@@ -10,7 +10,8 @@
 + blog : http://sulac.egloos.com/     
 + book : 시작하는 드로너를 위한 아두이노 드론 마스터 북 (http://www.yes24.com/Product/Goods/31867892)     
 + linkedin : https://www.linkedin.com/in/younlea-kim-30701919/    
-+ youtube : https://www.youtube.com/user/younlea/videos   
++ youtube : https://www.youtube.com/user/younlea/videos    
++ facebook : https://www.facebook.com/younlea.kim/      
 
 <hr/>
 

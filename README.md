@@ -9,43 +9,44 @@
 # 경력   
   
 ## 삼성전자 로봇 사업팀 수석 연구원 (2021.10 ~ 현재)    
-• Develop safety, security, and motor control platform.   
++ Develop safety, security, and motor control platform.   
 
 ## 삼성전자 무선 사업부 책임 연구원 (2011, 03 ~ 2021, 09)   
-• BUDS2 시스템 개발 및 분석툴 개발 (2021)   
-• 겔럭시 와치(타이젠 & wearOS) 커널 시스템 개발 (2020)    
-• 겔럭시 핏(freeRTOS) 시스템 및 분석 툴 개발(2029)      
-• 겔럭시 와치 시큐어존(타이젠 프로젝트) 개발(2018)      
-• 소방관들을 위한 열화상 카메라 개발 및 기부(CLAB) (2017)   
-• 삼성 드론 프로젝트 SW개발 및 리딩(2015~ 2016)     
-• 삼성 겔럭시 와치 페이스 software 테크니컬 리더(2014)   
-• 삼성 타이젠 로깅 시스템 테크니컬 리더(2014)   
-• 삼성 타이젠 사이드 싱크 테크니컬 리더   
-• 삼성 UMTS 모델 (RTOS -> linux system 변경)   
++ BUDS2 시스템 개발 및 분석툴 개발 (2021)   
++ 겔럭시 와치(타이젠 & wearOS) 커널 시스템 개발 (2020)    
++ 겔럭시 핏(freeRTOS) 시스템 및 분석 툴 개발(2029)      
++ 겔럭시 와치 시큐어존(타이젠 프로젝트) 개발(2018)      
++ 소방관들을 위한 열화상 카메라 개발 및 기부(CLAB) (2017)   
++ 삼성 드론 프로젝트 SW개발 및 리딩(2015~ 2016)     
++ 삼성 겔럭시 와치 페이스 software 테크니컬 리더(2014)   
++ 삼성 타이젠 로깅 시스템 테크니컬 리더(2014)   
++ 삼성 타이젠 사이드 싱크 테크니컬 리더   
++ 삼성 UMTS 모델 (RTOS -> linux system 변경)   
 
 ## 삼성전자 무선 사업부 선임 연구원(2007, 02 ~ 2011, 02)      
-• BSP 엔지니어 (신비안, 윈도우 모바일)      
-• 터치 다비이스 드라이버 개발        
-• USB 디바이스 드라이버 개발    
-• 바이너리 다운로더 개발      
++ BSP 엔지니어 (신비안, 윈도우 모바일)      
++ 터치 다비이스 드라이버 개발        
++ USB 디바이스 드라이버 개발    
++ 바이너리 다운로더 개발      
    
 ## 삼성전자 무선 사업부 연구원 (2005, 02 ~ 2006, 02)      
-• UMTS 모델 BSP 개발   
-• 윈도우즈 다운로드 프로그램 개발       
++ UMTS 모델 BSP 개발   
++ 윈도우즈 다운로드 프로그램 개발       
 
 <hr/>   
 
-# VOLUNTEER   
-• Mentor on SW maestro(swmaestro.or.kr) since 2020.   
-• Teaching drone to Fire fighter [201803~]   
-• Teaching drone to Gyeonggi Science High School [201803~]   
-• Tomorrow solution mentor [2016,2017, 2018]   
-• Teaching drone to Bundang high school [2017]   
-• Teaching drone build system to Uzbekistan tashkent University [20150904 ~ 20150913]   
-• Teaching arduino and software to Suwon mathane high school[2015]   
-• Write arduino books that is using Samsung juniors software Academy.(2014)   
-• Teaching science to the elementary student on each Month last weekend.[2013 ~ 2016]   
-• Mentor on hanium and IT probono (hanium.or.kr) since 2013.   
+# 봉사 활동 및 멘토링   
++ 삼성 쥬니어 소프트웨어 창작대회 멘토(2021)
++ SW 마에스트로 멘토 (2020 ~ )   
++ 소방관 드론 교육 (201803 ~ )   
++ 경기 과학교등학교, 금천 문화 예술 고등학교 드론 교육 (201803 ~ )   
++ 삼성 투모로우 솔루션 멘토 (2016, 2017, 2018)   
++ 분당 고등학교 드론 교육 (2017)   
++ 우즈백 타슈켄트 대학 드론 교육 (20150904 ~ 20150913)   
++ 수원 메탄 고등학교 아두이노 교육 (2015)   
++ 삼성 주니어 소프트웨어 아카데미 아두이노 교재 제작 (2014)   
++ 수원 지역 아동센터 과학 교실 (2013 ~ 2016)   
++ 한이음, 프로보노, 이브와 멘토링 (2013 ~)   
 
 <hr/>    
 
@@ -65,9 +66,4 @@
 [줌인삼성 열화상 카메라](https://www.youtube.com/watch?v=rXdblUqNZUY, "youtube link")    
 [소방관의 눈이 되어 드립니다 열화상 카메라 제작 보급기](https://www.youtube.com/watch?v=PiM4MGmw2zo, "youtube link")    
 [CNN 열화상 카메라](https://www.youtube.com/watch?v=gtjNa2lh5fY, "youtube link")     
-
-
-
-
-
 

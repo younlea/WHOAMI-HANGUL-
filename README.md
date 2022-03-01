@@ -1,44 +1,37 @@
-# WHOAMI-HANGUL-
-자기소개
+# 자기소개
++ blog : http://sulac.egloos.com/     
++ book : 시작하는 드로너를 위한 아두이노 드론 마스터 북 (http://www.yes24.com/Product/Goods/31867892)   
++ linkedin : https://www.linkedin.com/in/younlea-kim-30701919/   
++ youtube : https://www.youtube.com/user/younlea/videos   
 
-# whoamI
-about me
-
-linkedin : https://www.linkedin.com/in/younlea-kim-30701919/   
-youtube : https://www.youtube.com/user/younlea/videos   
-blog : http://sulac.egloos.com/     
-book : 시작하는 드로너를 위한 아두이노 드론 마스터 북 (http://www.yes24.com/Product/Goods/31867892)   
 <hr/>
 
-Experience   
-Principal Software Engineer   
-Samsung Robot Division TF (Oct 2021 - Present)    
+경력   
+  
+삼성전자 로봇 사업팀 수석 연구원 (2021.10 ~ 현재)    
 • Develop safety, security, and motor control platform.   
 
-Lead Senior Software Engineer   
-Samsung Electronics Corporation - Mobile Division March 2011- Sep 2021   
-• Develop system about buds2 (2021)   
-• Develop kernel system for Samsung watch using Tizen and WearOS(2020)   
-• Develop system and debug environment about galaxy fit using freertos(2019)   
-• Develop Secure zone for Tizen project(2018)   
-• Project leader of Thermal imaging camera for a firefighter in C-LAB. (2017)   
-• Technical leader for Samsung Drone project. (2015~2016).   
-• Technical leader for gear watch face. (2014)   
-• Technical leader for Tizen Samsung logging system(big data). (2014)   
-• Technical leader for Tizen SideSync project.   
-• BSP for UMTS model for switching from RTOS to Linux system.    
+삼성전자 무선 사업부 책임 연구원 (2011, 03 ~ 2021, 09)   
+• BUDS2 시스템 개발 및 분석툴 개발 (2021)   
+• 겔럭시 와치(타이젠 & wearOS) 커널 시스템 개발 (2020)    
+• 겔럭시 핏(freeRTOS) 시스템 및 분석 툴 개발(2029)      
+• 겔럭시 와치 시큐어존(타이젠 프로젝트) 개발(2018)      
+• 소방관들을 위한 열화상 카메라 개발 및 기부(CLAB) (2017)   
+• 삼성 드론 프로젝트 SW개발 및 리딩(2015~ 2016)     
+• 삼성 겔럭시 와치 페이스 software 테크니컬 리더(2014)   
+• 삼성 타이젠 로깅 시스템 테크니컬 리더(2014)   
+• 삼성 타이젠 사이드 싱크 테크니컬 리더   
+• 삼성 UMTS 모델 (RTOS -> linux system 변경)   
 
-Senior Software Engineer   
-Samsung Electronics Corporation - Mobile Division March 2007-February 2011 Suwon Korea   
-• BSP for Symbian and windows model.   
-• Developed Touch device driver.    
-• Developed USB driver.    
-• Developed Binary downloader.   
+삼성전자 무선 사업부 선임 연구원(2007, 02 ~ 2011, 02)      
+• BSP 엔지니어 (신비안, 윈도우 모바일)      
+• 터치 다비이스 드라이버 개발        
+• USB 디바이스 드라이버 개발    
+• 바이너리 다운로더 개발      
    
-Software Engineer Engineer   
-Samsung Electronics Corporation - Mobile Division Feb 2005-Feb 2006 Suwon Korea   
-• BSP engineer about UMTS models.   
-• Made a Windows binary downloader program.   
+삼성전자 무선 사업부 연구원 (2005, 02 ~ 2006, 02)      
+• UMTS 모델 BSP 개발   
+• 윈도우즈 다운로드 프로그램 개발       
 
 <hr/>   
 

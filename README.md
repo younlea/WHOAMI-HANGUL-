@@ -4,10 +4,11 @@
 과거의 나에게 해줄 말들을 멘티들에게 말해주는걸 좋아하는 멘토로 살아 가고 싶어하는 개발자입니다.   
 누군가에게 도움이 되고자 하는 개발자입니다. 
 
-<hr/>   
+<hr/>     
+
 + blog : http://sulac.egloos.com/     
-+ book : 시작하는 드로너를 위한 아두이노 드론 마스터 북 (http://www.yes24.com/Product/Goods/31867892)   
-+ linkedin : https://www.linkedin.com/in/younlea-kim-30701919/   
++ book : 시작하는 드로너를 위한 아두이노 드론 마스터 북 (http://www.yes24.com/Product/Goods/31867892)     
++ linkedin : https://www.linkedin.com/in/younlea-kim-30701919/    
 + youtube : https://www.youtube.com/user/younlea/videos   
 
 <hr/>

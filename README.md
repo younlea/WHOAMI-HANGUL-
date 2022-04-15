@@ -24,8 +24,8 @@
 <hr/>
 
 # 유튜브     
-[뇌파센서와 아두이노를 이용한 드론 조종 2013](http://sulac.egloos.com/5748416, "youtube link")   
-[DIY 드론 프로젝트 첫 비행](http://sulac.egloos.com/m/5876663, "youtube link")    
+[뇌파센서와 아두이노를 이용한 드론 조종 2013](https://youtu.be/oE9-ULhiBNo, "youtube link")   
+[DIY 드론 프로젝트 첫 비행](https://youtu.be/JbdfbkxD9zU, "youtube link")    
 [우즈백 타슈켄트 대학에서의 비행](https://www.youtube.com/watch?v=QEQXxTo1OkQ, "youtube link")   
 [찾아가는 뉴스룸 열화상 카메라 개발을 위한 소방학교 훈련 편](https://www.youtube.com/watch?v=gpwkQD-H8kM, "youtube link")    
 [줌인삼성 열화상 카메라](https://www.youtube.com/watch?v=rXdblUqNZUY, "youtube link")    

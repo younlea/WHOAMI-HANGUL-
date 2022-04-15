@@ -13,6 +13,25 @@
 + youtube : https://www.youtube.com/user/younlea/videos    
 + facebook : https://www.facebook.com/younlea.kim/      
 
+<hr/>    
+
+# 기사     
+[미래세대 눈망울에 'IT 희망' 심는 삼성맨](https://news.mt.co.kr/mtview.php?no=2015052016225907055, "news link")      
+[[Hot!119]소방관 아이디어-개발자 능력이 낳은 한국형 ‘열화상 카메라’](https://www.fpn119.co.kr/92309, "news link")        
+[언제든지 화재, 실종자 수색 가능한 드론이 소방 활동에 도움 되길](https://www.fpn119.co.kr/149484, "news link")       
+[소방관에게 천리안을 달아준, 김윤래 멘토를 소개합니다](https://blog.naver.com/sw_maestro/222424498772, "news link")          
+
+<hr/>
+
+# 유튜브     
+[뇌파센서와 아두이노를 이용한 드론 조종 2013](http://sulac.egloos.com/5748416, "youtube link")   
+[DIY 드론 프로젝트 첫 비행](http://sulac.egloos.com/m/5876663, "youtube link")    
+[우즈백 타슈켄트 대학에서의 비행](https://www.youtube.com/watch?v=QEQXxTo1OkQ, "youtube link")   
+[찾아가는 뉴스룸 열화상 카메라 개발을 위한 소방학교 훈련 편](https://www.youtube.com/watch?v=gpwkQD-H8kM, "youtube link")    
+[줌인삼성 열화상 카메라](https://www.youtube.com/watch?v=rXdblUqNZUY, "youtube link")    
+[소방관의 눈이 되어 드립니다 열화상 카메라 제작 보급기](https://www.youtube.com/watch?v=PiM4MGmw2zo, "youtube link")    
+[CNN 열화상 카메라](https://www.youtube.com/watch?v=gtjNa2lh5fY, "youtube link")     
+
 <hr/>
 
 # 경력   
@@ -60,23 +79,4 @@
 + 삼성 주니어 소프트웨어 아카데미 아두이노 교재 제작 (2014)   
 + 수원 지역 아동센터 과학 교실 (2013 ~ 2016)   
 + 한이음, 프로보노, 이브와 멘토링 (2013 ~)   
-
-<hr/>    
-
-# 기사     
-[미래세대 눈망울에 'IT 희망' 심는 삼성맨](https://news.mt.co.kr/mtview.php?no=2015052016225907055, "news link")      
-[[Hot!119]소방관 아이디어-개발자 능력이 낳은 한국형 ‘열화상 카메라’](https://www.fpn119.co.kr/92309, "news link")        
-[언제든지 화재, 실종자 수색 가능한 드론이 소방 활동에 도움 되길](https://www.fpn119.co.kr/149484, "news link")       
-[소방관에게 천리안을 달아준, 김윤래 멘토를 소개합니다](https://blog.naver.com/sw_maestro/222424498772, "news link")          
-
-<hr/>
-
-# 유튜브     
-[뇌파센서와 아두이노를 이용한 드론 조종 2013](http://sulac.egloos.com/5748416, "youtube link")   
-[DIY 드론 프로젝트 첫 비행](http://sulac.egloos.com/m/5876663, "youtube link")    
-[우즈백 타슈켄트 대학에서의 비행](https://www.youtube.com/watch?v=QEQXxTo1OkQ, "youtube link")   
-[찾아가는 뉴스룸 열화상 카메라 개발을 위한 소방학교 훈련 편](https://www.youtube.com/watch?v=gpwkQD-H8kM, "youtube link")    
-[줌인삼성 열화상 카메라](https://www.youtube.com/watch?v=rXdblUqNZUY, "youtube link")    
-[소방관의 눈이 되어 드립니다 열화상 카메라 제작 보급기](https://www.youtube.com/watch?v=PiM4MGmw2zo, "youtube link")    
-[CNN 열화상 카메라](https://www.youtube.com/watch?v=gtjNa2lh5fY, "youtube link")     
 

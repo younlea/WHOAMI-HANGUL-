@@ -16,10 +16,10 @@
 <hr/>    
 
 # 기사     
-[미래세대 눈망울에 'IT 희망' 심는 삼성맨](https://news.mt.co.kr/mtview.php?no=2015052016225907055 , "news link")      
-[[Hot!119]소방관 아이디어-개발자 능력이 낳은 한국형 ‘열화상 카메라’](https://www.fpn119.co.kr/92309 , "news link")        
-[언제든지 화재, 실종자 수색 가능한 드론이 소방 활동에 도움 되길](https://www.fpn119.co.kr/149484 , "news link")       
-[소방관에게 천리안을 달아준, 김윤래 멘토를 소개합니다](https://blog.naver.com/sw_maestro/222424498772 , "news link")          
+[미래세대 눈망울에 'IT 희망' 심는 삼성맨](https://news.mt.co.kr/mtview.php?no=2015052016225907055, "news link")      
+[[Hot!119]소방관 아이디어-개발자 능력이 낳은 한국형 ‘열화상 카메라’](https://www.fpn119.co.kr/92309, "news link")        
+[언제든지 화재, 실종자 수색 가능한 드론이 소방 활동에 도움 되길](https://www.fpn119.co.kr/149484, "news link")       
+[소방관에게 천리안을 달아준, 김윤래 멘토를 소개합니다](https://blog.naver.com/sw_maestro/222424498772, "news link")          
 
 <hr/>
 
